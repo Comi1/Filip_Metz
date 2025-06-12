@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Filip Metz - Moja Stranica</title>
+    <link rel="stylesheet" href="stil.css">
+</head>
+<body>
+    <h1>Filip Metz</h1>
+    <h2>napravljeno za digitalne multimedije</h2>
+
+    <nav>
+        <p>Navigacija:</p>
+        <ul>
+            <li><a href="https://www.w3schools.com">W3Schools</a></li>
+            <li><a href="docs/drugidokument.html">Drugi HTML dokument</a></li>
+            <li><a href="docs/dokument.pdf">PDF dokument</a></li>
+        </ul>
+    </nav>
+
+    <p>O meni: <b>Bavim se grafičkim dizajnom</b>, <i>u slobodno vrijeme treniram kickbox.</i>.
+    <q>Learning never exhausts the mind.</q> - Leonardo da Vinci.
+    </p>
+
+    <p>Omiljena glazba:</p>
+    <ul>
+        <li>Rap</li>
+        <li>Old brazilian funk</li>
+        <li>DnB/Jungle</li>
+    </ul>
+
+    <p>Knjige koje čitam:</p>
+    <ol>
+        <li>1984 - George Orwell</li>
+        <li>Pretentiousness Why it Matters - Dan Fox</li>
+        <li>The art of war - Sun Tzu</li>
+    </ol>
+
+    <img src="img/slika1.jpg" alt="Slika 1">
+    <img src="img/slika2.jpg" alt="Slika 2">
+<br>
+
+    <video width="320" height="240" controls>
+        <source src="media/video.mp4" type="video/mp4">
+        Tvoj browser ne podržava ovaj video format.
+    </video>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hOkXpKW0GC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <audio controls>
+        <source src="media/zvuk.mp3" type="audio/mp3">
+        Tvoj browser ne podržava ovaj audio format.
+    </audio>
+</body>
+</html>
