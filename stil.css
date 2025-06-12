@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #555;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.crveni {
+    color: red;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 10px 0;
+}
+
+video, audio {
+    margin: 10px 0;
+}
